@@ -46,7 +46,7 @@ export const centoESessentaEUm = (13**2) * 8 //fiz
 export const trintaECinco = 7 * 5 //fiz
 
 /* Questão 04 */
-export const centoEVinteESeis = (22 ?? 6) ?? (24 * 4) 
+export const centoEVinteESeis = (22 * 6) - (24 / 4) 
 
 /* Questão 05 */
 export const oitentaEQuatro = (200 / 4) + 34 //fiz
@@ -67,7 +67,7 @@ export const centoETrinta = (41 * 3) + (21 / 3) //fiz
 export const quinze = 30 / 3 + 5 //fiz
 
 /* Questão 11 */
-export const quarentaETres = 86 - (12 - 5) //fiz
+export const quarentaETres = 86 / (12 % 5) //fiz
 
 /* Questão 12 */
 export const trinta = 6 * 5 //fiz
