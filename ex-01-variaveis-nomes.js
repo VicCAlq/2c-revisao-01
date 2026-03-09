@@ -113,10 +113,10 @@ export class umBesouro {}
 export class RoupasJuninas {}
 
 /* Questão 16 */
-export let cálculosMatemáticos = true
+export let calculosMatematicos = true
 
 /* Questão 17 */
-export const camaMesa_E_Banho = true
+export const camaMesaEBanho = true
 
 /* Questão 18 */
 export let precoDoProduto = true
