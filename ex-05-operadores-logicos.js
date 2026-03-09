@@ -83,3 +83,5 @@ export const resposta09 = "fido" ?? "snoopy"
 
 /* Questão 10 */
 export const resposta10 = false ?? true
+
+

@@ -95,3 +95,5 @@ export const quarentaESeis = 23 ?? (7 ?? 5)
 
 /* Questão 20 */
 export const centoEOitentaEQuatro = 23 ?? (2 ?? 4)
+
+
