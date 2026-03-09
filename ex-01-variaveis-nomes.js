@@ -68,62 +68,62 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let funcaoImportante = true
+export let funçãoImportante = true
 
 /* Questão 02 */
-export class ClientesDoSalao {}
+export class clientes_do_salão {}
 
 /* Questão 03 */
-export let proximaEtapa = true
+export let próximaEtapa = true
 
 /* Questão 04 */
-export const dataEHorario = true
+export const data_e_horario = true
 
 /* Questão 05 */
-export const videoAula = true
+export const vídeoAula = true
 
 /* Questão 06 */
-export let arquivoPrincipal = true
+export let arquivo_principal = true
 
 /* Questão 07 */
-export class ComodosDaCasa {}
+export class CômodosDaCasa {}
 
 /* Questão 08 */
-export let quatroRodas = true
+export let $4rodas = true
 
 /* Questão 09 */
-export let cincoPowerRangers = true
+export let _5PowerRangers = true
 
 /* Questão 10 */
-export let puroAco = true
+export let puro_Aço = true
 
 /* Questão 11 */
-export const cemReaisEmBarrasDeOuro = true
+export const $100reaisEmBarras_de_OURO = true
 
 /* Questão 12 */
-export const paginaInicial = true
+export const páginaInicial = true
 
 /* Questão 13 */
-export let cincoPatinhosForamPassear = true
+export let _5patinhosForamPassear = true
 
 /* Questão 14 */
-export class UmBesouro {}
+export class $1besouro {}
 
 /* Questão 15 */
-export class RoupasJuninas {}
+export class Roupas_Juninas {}
 
 /* Questão 16 */
-export let calculosMatematicos = true
+export let cálculosMatemáticos = true
 
 /* Questão 17 */
-export const camaMesaEBanho = true
+export const camaMesa_E_Banho = true
 
 /* Questão 18 */
-export let precoDoProduto = true
+export let preçoDOproduto = true
 
 /* Questão 19 */
-export const codigoFonte = true
+export const código_fonte = true
 
 /* Questão 20 */
-export class CaboFrio {}
+export class Cabo_frio {}
 
