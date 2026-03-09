@@ -71,7 +71,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let funcaoImportante = true
 
 /* Questão 02 */
-export class clientesDoSalao {}
+export class ClientesDoSalao {}
 
 /* Questão 03 */
 export let proximaEtapa = true
@@ -86,13 +86,13 @@ export const videoAula = true
 export let arquivoPrincipal = true
 
 /* Questão 07 */
-export class comodosDaCasa {}
+export class ComodosDaCasa {}
 
 /* Questão 08 */
 export let rodas = true
 
 /* Questão 09 */
-export let _PowerRangers = true
+export let powerRangers = true
 
 /* Questão 10 */
 export let puroAco = true
@@ -104,13 +104,13 @@ export const reaisEmBarrasDeOuro = true
 export const paginaInicial = true
 
 /* Questão 13 */
-export let _patinhosForamPassear = true
+export let patinhosForamPassear = true
 
 /* Questão 14 */
-export class besouro {}
+export class Umbesouro {}
 
 /* Questão 15 */
-export class roupasJuninas {}
+export class RoupasJuninas {}
 
 /* Questão 16 */
 export let calculosMatematicos = true
