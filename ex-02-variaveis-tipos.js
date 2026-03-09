@@ -37,64 +37,62 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita = "The Fly"
+export let musicaFavorita
 
 /* Questão 02 */
-export let objetoQualquer = ["marcio"]
+export let objetoQualquer
 
 /* Questão 03 */
-export let valorIndefinido;
+export let valorIndefinido
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao = false
+export let tartarugasVoamVerdadeOuNao
 
 /* Questão 05 */
-export let noveDivididoPorTres = 3
+export let noveDivididoPorTres
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao = true
+export let papagaiosFalamVerdadeOuNao
 
 /* Questão 07 */
-export let umaFuncao = function pedirBenca(painho){
-  console.log("Bença " + painho)
-}
+export let umaFuncao
 
 /* Questão 08 */
-export let cemDivididoPorCinco = 20
+export let cemDivididoPorCinco
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola = "Cícero Dias"
+export let nomeDaSuaEscola
 /* Questão 10 */
 
-export let quinzeMaisCinco 20
+export let quinzeMaisCinco
 /* Questão 11 */
 
-export let valorFalso = false
+export let valorFalso
 /* Questão 12 */
 
-export let dezMaisQuatro = 14
+export let dezMaisQuatro
 
 /* Questão 13 */
-export let nomeDoSeuEstado = "Pernambuco"
+export let nomeDoSeuEstado
 
 /* Questão 14 */
-export let artistaFavorito = "Istasha"
+export let artistaFavorito
 
 /* Questão 15 */
-export let seteVezesSete = 49
+export let seteVezesSete
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao = false
+export let umMaiorQueDoisVerdadeOuNao
 
 /* Questão 17 */
-export let comidaFavorita = "Comida"
+export let comidaFavorita
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao = true
+export let oCeuEhAzulVerdadeOuNao
 
 /* Questão 19 */
-export let objetoNulo = null
+export let objetoNulo
 
 /* Questão 20 */
-export let valorVerdadeiro = true
+export let valorVerdadeiro
