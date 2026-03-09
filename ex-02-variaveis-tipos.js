@@ -37,62 +37,61 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = "Waterflame - Race around the world"
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer = ["Maçã", "Banana", "Abacaxi", "Maracujá"]
 
 /* Questão 03 */
 export let valorIndefinido
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao = Infinity + Infinity == 16
 
 /* Questão 05 */
-export let noveDivididoPorTres
+export let noveDivididoPorTres = 9 / 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao
+export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
-export let umaFuncao
+export let umaFuncao = (a, b) => a + b
 
 /* Questão 08 */
-export let cemDivididoPorCinco
+export let cemDivididoPorCinco = 100 / 5
 
 /* Questão 09 */
+export let nomeDaSuaEscola = "ETE Cícero Dias"
 
-export let nomeDaSuaEscola
 /* Questão 10 */
+export let quinzeMaisCinco = umaFuncao(15, 5)
 
-export let quinzeMaisCinco
 /* Questão 11 */
+export let valorFalso = false
 
-export let valorFalso
 /* Questão 12 */
-
-export let dezMaisQuatro
+export let dezMaisQuatro = umaFuncao(10, 4)
 
 /* Questão 13 */
-export let nomeDoSeuEstado
+export let nomeDoSeuEstado = "PE"
 
 /* Questão 14 */
-export let artistaFavorito
+export let artistaFavorito = "Toby Fox"
 
 /* Questão 15 */
-export let seteVezesSete
+export let seteVezesSete = 7 ** 2
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao
+export let umMaiorQueDoisVerdadeOuNao = 1 > 2
 
 /* Questão 17 */
-export let comidaFavorita
+export let comidaFavorita = "Pizza"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao
+export let oCeuEhAzulVerdadeOuNao = 2 + 2 === "peixe"
 
 /* Questão 19 */
-export let objetoNulo
+export let objetoNulo = null
 
 /* Questão 20 */
-export let valorVerdadeiro
+export let valorVerdadeiro = true
