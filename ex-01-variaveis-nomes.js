@@ -77,10 +77,10 @@ export class ClientesDoSalao {}
 export let proximaEtapa = true
 
 /* Questão 04 */
-export const dataEHorario = true
+export const DATA_E_HORARIO = true
 
 /* Questão 05 */
-export const videoAula = true
+export const VIDEO_AULA = true
 
 /* Questão 06 */
 export let arquivoPrincipal = true
@@ -98,16 +98,16 @@ export let cincoPowerRangers = true
 export let puroAco = true
 
 /* Questão 11 */
-export const cemReaisEmBarrasDeOuro = true
+export const CEM_REAIS_EM_BARRAS_DE_OURO = true
 
 /* Questão 12 */
-export const paginaInicial = true
+export const PAGINA_INICIAL = true
 
 /* Questão 13 */
 export let cincoPatinhosForamPassear = true
 
 /* Questão 14 */
-export class UmBesouro {}
+export class Um_Besouro {}
 
 /* Questão 15 */
 export class RoupasJuninas {}
@@ -116,13 +116,13 @@ export class RoupasJuninas {}
 export let calculosMatematicos = true
 
 /* Questão 17 */
-export const camaMesaEBanho = true
+export const CAMA_MESA_E_BANHO = true
 
 /* Questão 18 */
 export let precoDoProduto = true
 
 /* Questão 19 */
-export const codigoFonte = true
+export const CODIGO_FONTE = true
 
 /* Questão 20 */
 export class CaboFrio {}
