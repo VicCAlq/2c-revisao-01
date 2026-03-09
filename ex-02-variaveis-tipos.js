@@ -20,10 +20,9 @@ em situações específicas e menos comuns:
                       usar o tipo "indefinido" diretamente, basta atribuir o valor undefined
 5. Tipo "function" - Valor que reprenta funções e classes.
 6. Tipo "Object" - Quaisquer outras estruturas em JavaScript são consideradas Objetos: Listas?
+                   objetos. Tuplas? Objetos também. Nulo? Acredite ou não, objeto também.
 7. Tipo "bigint" - Para números grandes demais para o tipo "number"
 8. Tipo "symbol" - Valor que representa um identificador único para o programa.
-                   objetos. Tuplas? Objetos também. Nulo? Acredite ou não, objeto também.
-
 -------------------------------------------------------------------------------------------
 
 Para as questões abaixo, atribua a cada variável um valor que combine com 
