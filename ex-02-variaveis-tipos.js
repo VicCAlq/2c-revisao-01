@@ -37,35 +37,35 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = "A Dona Aranha"
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer = "Caneta"
 
 /* Questão 03 */
-export let valorIndefinido
+export let valorIndefinido = undefined
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao = false
 
 /* Questão 05 */
-export let noveDivididoPorTres
+export let noveDivididoPorTres = 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao
+export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
 export let umaFuncao
 
 /* Questão 08 */
-export let cemDivididoPorCinco
+export let cemDivididoPorCinco = 20
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola
+export let nomeDaSuaEscola = "ETE Cícero Dias"
 /* Questão 10 */
 
-export let quinzeMaisCinco
+export let quinzeMaisCinco = 20
 /* Questão 11 */
 
 export let valorFalso
@@ -74,7 +74,7 @@ export let valorFalso
 export let dezMaisQuatro
 
 /* Questão 13 */
-export let nomeDoSeuEstado
+export let nomeDoSeuEstado = "Pernambuco"
 
 /* Questão 14 */
 export let artistaFavorito
@@ -86,10 +86,10 @@ export let seteVezesSete
 export let umMaiorQueDoisVerdadeOuNao
 
 /* Questão 17 */
-export let comidaFavorita
+export let comidaFavorita = "Lasanha"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao
+export let oCeuEhAzulVerdadeOuNao = true
 
 /* Questão 19 */
 export let objetoNulo
