@@ -1,47 +1,47 @@
 | Aluno | Total de acertos | Nota total |
 |-------|------------------|------------|
-| Bruno Gustavo | 0.000000 | 0.000000 |
-| Eduardo Oliveira | 0.000000 | 0.000000 |
-| Cauê Ferreira | 0.000000 | 0.000000 |
-| João Barros | 0.000000 | 0.000000 |
-| itzisnotavaliable | 0.000000 | 0.000000 |
-| Artur Jude | 0.000000 | 0.000000 |
-| Gabriel Vitor | 0.000000 | 0.000000 |
-| Jonatas Vinícius | 0.000000 | 0.000000 |
-| Mateus Antônio | 0.000000 | 0.000000 |
-| Debora Vitória | 0.000000 | 0.000000 |
-| Abner Ferreira | 0.000000 | 0.000000 |
-| Miguel Albuquerque | 0.000000 | 0.000000 |
+| Mateus Antônio | 52.200000 | 100.000000 |
+| Letícia Domingos | 44.600000 | 100.000000 |
+| itzisnotavaliable | 21.400000 | 66.875000 |
+| Jeniffer Dantas | 58.600000 | 100.000000 |
+| Arthur Lucio | 21.400000 | 66.875000 |
+| Cauê Ferreira | 37.000000 | 100.000000 |
+| Amanda Vitória | 48.600000 | 100.000000 |
+| Bernardo Pedro | 78.000000 | 100.000000 |
 | Vitor Calixto | 61.000000 | 100.000000 |
-| Davi Barboza | 0.000000 | 0.000000 |
-| Luan Murilo | 0.000000 | 0.000000 |
-| Gabriel Fernando | 0.000000 | 0.000000 |
+| Luan Murilo | 21.400000 | 66.875000 |
+| Gustavo Alberto | 79.000000 | 100.000000 |
+| Abner Ferreira | 21.400000 | 66.875000 |
+| Debora Vitória | 79.000000 | 100.000000 |
+| Davi Barboza | 21.400000 | 66.875000 |
+| Bruno Gustavo | 79.000000 | 100.000000 |
+| Brennda Rykelly | 21.400000 | 66.875000 |
+| Miguel Albuquerque | 79.000000 | 100.000000 |
+| Brenda Vilaça | 47.800000 | 100.000000 |
 | Yan Arthur | 21.400000 | 66.875000 |
-| Brenda Vilaça | 0.000000 | 0.000000 |
-| Bernardo Pedro | 0.000000 | 0.000000 |
-| Davi Neres | 0.000000 | 0.000000 |
-| Arthur Emanuel | 0.000000 | 0.000000 |
-| Amanda Vitória | 0.000000 | 0.000000 |
-| Kamylle Vitória | 0.000000 | 0.000000 |
-| Isaac Andrade | 0.000000 | 0.000000 |
-| Ryan Gabriel | 52.000000 | 100.000000 |
+| Walleysson Ferreira | 21.400000 | 66.875000 |
+| Samuel Erivaldo | 60.000000 | 100.000000 |
 | Thulio Barbosa | 45.000000 | 100.000000 |
 | Thales Henry | 78.000000 | 100.000000 |
-| Matheus Thiago | 21.400000 | 66.875000 |
-| Arthur Lucio | 0.000000 | 0.000000 |
-| Saulo Bizerril | 21.400000 | 66.875000 |
-| Samuel Erivaldo | 60.000000 | 100.000000 |
-| Jeniffer Dantas | 0.000000 | 0.000000 |
-| Beatriz Vilaça | 0.000000 | 0.000000 |
-| Gabriel Primo | 0.000000 | 0.000000 |
-| Fernandes Gabriel | 0.000000 | 0.000000 |
-| Pedro Victor | 0.000000 | 0.000000 |
-| Pedro Arthur | 0.000000 | 0.000000 |
-| Marcus Vinícios | 0.000000 | 0.000000 |
-| Letícia Domingos | 0.000000 | 0.000000 |
+| Jonatas Vinícius | 76.000000 | 100.000000 |
+| Marcus Vinícios | 79.000000 | 100.000000 |
+| Eduardo Oliveira | 21.400000 | 66.875000 |
+| Gabriel Fernando | 78.000000 | 100.000000 |
 | Renato Marques | 79.000000 | 100.000000 |
-| caique-albuquerque-nave | 0.000000 | 0.000000 |
-| Walleysson Ferreira | 21.400000 | 66.875000 |
-| Brennda Rykelly | 0.000000 | 0.000000 |
-| henriquerocha-ops | 0.000000 | 0.000000 |
-| Gustavo Alberto | 0.000000 | 0.000000 |
+| Gabriel Primo | 73.200000 | 100.000000 |
+| Pedro Victor | 73.000000 | 100.000000 |
+| Beatriz Vilaça | 58.600000 | 100.000000 |
+| Kamylle Vitória | 21.400000 | 66.875000 |
+| Gabriel Vitor | 66.000000 | 100.000000 |
+| Saulo Bizerril | 21.400000 | 66.875000 |
+| Matheus Thiago | 21.400000 | 66.875000 |
+| João Barros | 78.000000 | 100.000000 |
+| Artur Jude | 21.400000 | 66.875000 |
+| Pedro Arthur | 58.600000 | 100.000000 |
+| Davi Neres | 50.400000 | 100.000000 |
+| henriquerocha-ops | 21.400000 | 66.875000 |
+| caique-albuquerque-nave | 44.600000 | 100.000000 |
+| Arthur Emanuel | 57.000000 | 100.000000 |
+| Isaac Andrade | 80.000000 | 100.000000 |
+| Ryan Gabriel | 52.000000 | 100.000000 |
+| Fernandes Gabriel | 80.000000 | 100.000000 |
