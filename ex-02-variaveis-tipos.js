@@ -62,16 +62,16 @@ export let cemDivididoPorCinco = 100 / 5
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola = " ETE Cícero Dias"
+export let nomeDaSuaEscola = "ETE Cícero Dias"
 /* Questão 10 */
 
-export let quinzeMaisCinco =  20
+export let quinzeMaisCinco =  15 + 5
 /* Questão 11 */
 
 export let valorFalso = false
 /* Questão 12 */
 
-export let dezMaisQuatro = 14
+export let dezMaisQuatro = 10 + 4
 
 /* Questão 13 */
 export let nomeDoSeuEstado = "Pernambuco"
@@ -86,7 +86,7 @@ export let seteVezesSete = 7 * 7
 export let umMaiorQueDoisVerdadeOuNao = false
 
 /* Questão 17 */
-export let comidaFavorita = "Lasanha"
+export let comidaFavorita = "amborguer"
 
 /* Questão 18 */
 export let oCeuEhAzulVerdadeOuNao = true
