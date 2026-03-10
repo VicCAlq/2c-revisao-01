@@ -37,7 +37,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export const trintaENove = 44 _ 10 + 5
+export const trintaENove = 44 - 10 + 5
 
 /* Questão 02 */
 export const centoESessentaEUm = (13**2) * 8
@@ -46,7 +46,7 @@ export const centoESessentaEUm = (13**2) * 8
 export const trintaECinco = 7 * 5
 
 /* Questão 04 */
-export const centoEVinteESeis = (22 * 6) _ (24 / 4)
+export const centoEVinteESeis = (22 * 6) - (24 / 4)
 
 /* Questão 05 */
 export const oitentaEQuatro = (200 / 4) + 34
@@ -85,7 +85,7 @@ export const quarentaEOito = (2**3) * 6
 export const trintaETres = 66 / 2
 
 /* Questão 17 */
-export const quarentaECinco = (3 ?? 2) ?? 5
+export const quarentaECinco = (3**2) * 5
 
 /* Questão 18 */
 export const oitentaENove = (9 ?? 10) ?? (5 ?? 5)
