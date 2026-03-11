@@ -37,10 +37,10 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita = "We Can Be Heroes"
+export let musicaFavorita = 'We Can Be Heroes'
 
 /* Questão 02 */
-export let objetoQualquer = ["Lapis", "Borracha", "Apontador"]
+export let objetoQualquer = 'Lapis'
 
 /* Questão 03 */
 export let valorIndefinido
@@ -89,7 +89,7 @@ export let umMaiorQueDoisVerdadeOuNao = 1 > 2
 export let comidaFavorita = "Pizza"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao = false
+export let oCeuEhAzulVerdadeOuNao = true
 
 /* Questão 19 */
 export let objetoNulo = null
