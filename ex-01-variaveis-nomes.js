@@ -77,10 +77,10 @@ export class ClientesDoSalao {}
 export let proximaEtapa = true
 
 /* Questão 04 */
-export const DataEHorario = true
+export const dataEHorario = true
 
 /* Questão 05 */
-export const VideoAula = true
+export const videoAula = true
 
 /* Questão 06 */
 export let arquivoPrincipal = true
@@ -98,10 +98,10 @@ export let powerRangers = true
 export let puroAco = true
 
 /* Questão 11 */
-export const CEMReaisEmBarrasDeOuro = true
+export const $100ReaisEmBarrasDeOuro = true
 
 /* Questão 12 */
-export const PaginaInicial = true
+export const paginaInicial = true
 
 /* Questão 13 */
 export let $5PatinhosForamPassear = true
@@ -116,7 +116,7 @@ export class RoupasJuninas {}
 export let calculosMatematicos = true
 
 /* Questão 17 */
-export const CamaMesaEBanho = true
+export const camaMesaEBanho = true
 
 /* Questão 18 */
 export let precoDoProduto = true
