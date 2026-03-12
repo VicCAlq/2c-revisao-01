@@ -77,7 +77,7 @@ export class clientes_do_salão {}
 export let próximaEtapa = true
 
 /* Questão 04 */
-export const data_e_horario = true
+export const dataehorario = true
 
 /* Questão 05 */
 export const vídeoAula = true
