@@ -37,13 +37,13 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita = 'We Can Be Heroes'
+export let musicaFavorita = "Heroes"
 
 /* Questão 02 */
 export let objetoQualquer = 'Lapis'
 
 /* Questão 03 */
-export let valorIndefinido
+export let valorIndefinido = undefined
 
 /* Questão 04 */
 export let tartarugasVoamVerdadeOuNao = false
@@ -55,7 +55,7 @@ export let noveDivididoPorTres = 9 / 3
 export let papagaiosFalamVerdadeOuNao = false
 
 /* Questão 07 */
-export let umaFuncao = fuction() {}
+export let umaFuncao = function(){}
 
 /* Questão 08 */
 export let cemDivididoPorCinco = 100 / 5
