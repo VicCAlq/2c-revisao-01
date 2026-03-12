@@ -68,7 +68,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let funçãoImportante = true
+export let funcaoImportante = true
 
 /* Questão 02 */
 export class ClientesDoSalao {}
@@ -119,11 +119,11 @@ export let calculosMatematicos = true
 export const camaMesaEBanho = true
 
 /* Questão 18 */
-export let preçoDoProduto = true
+export let precoDoProduto = true
 
 /* Questão 19 */
 export const codigoFonte = true
 
 /* Questão 20 */
-export class Cabofrio {}
+export class CaboFrio {}
 

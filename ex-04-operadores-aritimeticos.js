@@ -40,7 +40,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export const trintaENove = 44 - 10 + 5 //fiz
 
 /* Questão 02 */
-export const centoESessentaEUm = (13**2) * 8 //fiz
+export const centoESessentaEUm = (13**2) - 8 //fiz
 
 /* Questão 03 */
 export const trintaECinco = 7 * 5 //fiz
@@ -73,7 +73,7 @@ export const quarentaETres = 86 / (12 % 5) //fiz
 export const trinta = 6 * 5 //fiz
 
 /* Questão 13 */
-export const sessentaETres = (125 * 5) + 38 
+export const sessentaETres = (125 / 5) + 38 
 
 /* Questão 14 */
 export const vinteEDois = 11 * 2 //fiz
