@@ -177,4 +177,4 @@ export const resposta08 = false
 export const resposta09 = false
 
 /* Questão 10: giorno enxerga mista?*/
-export const resposta10 = false
+export const resposta10 = true
