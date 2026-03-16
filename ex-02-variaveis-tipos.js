@@ -40,7 +40,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let musicaFavorita = "Hide"
 
 /* Questão 02 */
-export let objetoQualquer = Object(colher)
+export let objetoQualquer  
 
 /* Questão 03 */
 export let valorIndefinido = undefined
