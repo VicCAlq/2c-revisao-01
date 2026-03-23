@@ -68,22 +68,22 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let funçãoImportante = true
+export let funcãoImportante = true
 
 /* Questão 02 */
-export class clientes_do_salão {}
+export class ClientesDoSalão {}
 
 /* Questão 03 */
 export let próximaEtapa = true
 
 /* Questão 04 */
-export const dataehorario = true
+export const dataEHorário = true
 
 /* Questão 05 */
 export const vídeoAula = true
 
 /* Questão 06 */
-export let arquivo_principal = true
+export let arquivo_Principal = true
 
 /* Questão 07 */
 export class CômodosDaCasa {}
@@ -95,7 +95,7 @@ export let $4rodas = true
 export let _5PowerRangers = true
 
 /* Questão 10 */
-export let puro_Aço = true
+export let puro_Aco = true
 
 /* Questão 11 */
 export const $100reaisEmBarras_de_OURO = true
@@ -119,10 +119,10 @@ export let cálculosMatemáticos = true
 export const camaMesa_E_Banho = true
 
 /* Questão 18 */
-export let preçoDOproduto = true
+export let precoDoProduto = true
 
 /* Questão 19 */
-export const código_fonte = true
+export const código_Fonte = true
 
 /* Questão 20 */
 export class Cabo_frio {}
